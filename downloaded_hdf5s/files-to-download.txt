@@ -1,0 +1,41 @@
+You can use the scan_script.py script to download the corresponding files.
+This directory should have three folders, each of which containing 10 files.
+To reproduce the results reported in the thesis, the filenames should exactly match.
+The filenames are as follows:
+
+.
+├── CountingUpDownFaceSideAway
+│   ├── 2022-06-13-1655107200-7640c-cv-emg-pose-train@2-recording-2_left.hdf5
+│   ├── 2022-07-06-1657094400-56016-cv-emg-pose-train@2-recording-2_right.hdf5
+│   ├── 2022-07-14-1657785600-d26fc-cv-emg-pose-train@2-recording-2_left.hdf5
+│   ├── 2022-08-04-1659600000-98054-cv-emg-pose-train@2-recording-2_right.hdf5
+│   ├── 2022-09-06-1662451200-c2415-cv-emg-pose-train@2-recording-2_left.hdf5
+│   ├── 2022-09-15-1663228800-88f7a-cv-emg-pose-train@2-recording-2_left.hdf5
+│   ├── 2022-09-16-1663315200-bfa9f-cv-emg-pose-train@2-recording-2_right.hdf5
+│   ├── 2022-10-21-1666339200-ff47f-cv-emg-pose-train@2-recording-2_left.hdf5
+│   ├── 2022-11-08-1667894400-4b511-cv-emg-pose-train@2-recording-2_right.hdf5
+│   └── 2022-11-17-1668672000-5a848-cv-emg-pose-train@2-recording-2_right.hdf5
+├── FingerAbductionSeries
+│   ├── 2022-06-14-1655193600-00144-cv-emg-pose-train@2-recording-6_left.hdf5
+│   ├── 2022-07-08-1657267200-1293e-cv-emg-pose-train@2-recording-5_left.hdf5
+│   ├── 2022-07-18-1658131200-2a2fc-cv-emg-pose-train@2-recording-5_right.hdf5
+│   ├── 2022-07-20-1658304000-36881-cv-emg-pose-train@2-recording-5_right.hdf5
+│   ├── 2022-08-02-1659427200-6596c-cv-emg-pose-train@2-recording-5_right.hdf5
+│   ├── 2022-08-22-1661155200-607bc-cv-emg-pose-train@2-recording-5_left.hdf5
+│   ├── 2022-09-16-1663315200-22570-cv-emg-pose-train@2-recording-5_left.hdf5
+│   ├── 2022-10-19-1666166400-7ff2a-cv-emg-pose-train@2-recording-5_right.hdf5
+│   ├── 2022-11-17-1668672000-4c091-cv-emg-pose-train@2-recording-5_right.hdf5
+│   └── 2022-12-01-1669881600-64441-cv-emg-pose-train@2-recording-5_right.hdf5
+└── PlayBlocksChess
+    ├── 2022-06-07-1654588800-f0b37-cv-emg-pose-demonstration@2-recording-19_right.hdf5
+    ├── 2022-06-15-1655280000-fe2bf-cv-emg-pose-demonstration@2-recording-23_left.hdf5
+    ├── 2022-06-17-1655452800-5a6aa-cv-emg-pose-demonstration@2-recording-23_right.hdf5
+    ├── 2022-07-08-1657267200-e0629-cv-emg-pose-demonstration@2-recording-22_left.hdf5
+    ├── 2022-07-14-1657785600-eb51a-cv-emg-pose-demonstration@2-recording-22_left.hdf5
+    ├── 2022-07-21-1658390400-20b37-cv-emg-pose-demonstration@2-recording-22_right.hdf5
+    ├── 2022-07-27-1658908800-407fc-cv-emg-pose-demonstration@2-recording-22_right.hdf5
+    ├── 2022-08-02-1659427200-27150-cv-emg-pose-demonstration@2-recording-17_right.hdf5
+    ├── 2022-10-11-1665475200-a18ae-cv-emg-pose-demonstration@2-recording-22_right.hdf5
+    └── 2022-11-14-1668412800-9af76-cv-emg-pose-demonstration@2-recording-22_right.hdf5
+
+
